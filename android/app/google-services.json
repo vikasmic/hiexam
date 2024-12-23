@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33327409760",
+    "project_id": "hiexam-cf578",
+    "storage_bucket": "hiexam-cf578.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33327409760:android:e8ab42b39008ab2cadb105",
+        "android_client_info": {
+          "package_name": "com.exam.hiexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3avdrKpU_yCzb-tHnsWRC4CKB5hX3biI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
